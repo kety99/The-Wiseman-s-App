@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Wise Man\'s App</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="advice_button_text">Generate a wiseness!</string>
+    <string name="favorites_button_text">Save this wiseness!</string>
+    <string name="search_hint">Search wiseness...</string>
+</resources>
